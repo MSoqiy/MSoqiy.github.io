@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-label="Aqlli o‘yin — bilimli avlod">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1220"/><stop offset="1" stop-color="#132a4a"/></linearGradient>
+    <linearGradient id="g1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#14b8a6"/><stop offset="1" stop-color="#1d4ed8"/></linearGradient>
+    <linearGradient id="g2" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fde68a"/><stop offset="1" stop-color="#f59e0b"/></linearGradient>
+  </defs>
+  <rect width="1280" height="320" rx="28" fill="url(#bg)"/>
+  <g opacity="0.08"><polygon points="760.0,0.0 776.5,20.1 802.4,17.6 799.9,43.5 820.0,60.0 799.9,76.5 802.4,102.4 776.5,99.9 760.0,120.0 743.5,99.9 717.6,102.4 720.1,76.5 700.0,60.0 720.1,43.5 717.6,17.6 743.5,20.1" fill="#fff"/><polygon points="870.0,200.0 886.5,220.1 912.4,217.6 909.9,243.5 930.0,260.0 909.9,276.5 912.4,302.4 886.5,299.9 870.0,320.0 853.5,299.9 827.6,302.4 830.1,276.5 810.0,260.0 830.1,243.5 827.6,217.6 853.5,220.1" fill="#fff"/><polygon points="980.0,0.0 996.5,20.1 1022.4,17.6 1019.9,43.5 1040.0,60.0 1019.9,76.5 1022.4,102.4 996.5,99.9 980.0,120.0 963.5,99.9 937.6,102.4 940.1,76.5 920.0,60.0 940.1,43.5 937.6,17.6 963.5,20.1" fill="#fff"/><polygon points="1090.0,200.0 1106.5,220.1 1132.4,217.6 1129.9,243.5 1150.0,260.0 1129.9,276.5 1132.4,302.4 1106.5,299.9 1090.0,320.0 1073.5,299.9 1047.6,302.4 1050.1,276.5 1030.0,260.0 1050.1,243.5 1047.6,217.6 1073.5,220.1" fill="#fff"/><polygon points="1200.0,0.0 1216.5,20.1 1242.4,17.6 1239.9,43.5 1260.0,60.0 1239.9,76.5 1242.4,102.4 1216.5,99.9 1200.0,120.0 1183.5,99.9 1157.6,102.4 1160.1,76.5 1140.0,60.0 1160.1,43.5 1157.6,17.6 1183.5,20.1" fill="#fff"/><polygon points="1310.0,200.0 1326.5,220.1 1352.4,217.6 1349.9,243.5 1370.0,260.0 1349.9,276.5 1352.4,302.4 1326.5,299.9 1310.0,320.0 1293.5,299.9 1267.6,302.4 1270.1,276.5 1250.0,260.0 1270.1,243.5 1267.6,217.6 1293.5,220.1" fill="#fff"/></g>
+  <polygon points="160.0,56.0 188.7,90.8 233.5,86.5 229.2,131.3 264.0,160.0 229.2,188.7 233.5,233.5 188.7,229.2 160.0,264.0 131.3,229.2 86.5,233.5 90.8,188.7 56.0,160.0 90.8,131.3 86.5,86.5 131.3,90.8" fill="url(#g1)"/>
+  <polygon points="160.0,79.0 182.3,106.1 217.3,102.7 213.9,137.7 241.0,160.0 213.9,182.3 217.3,217.3 182.3,213.9 160.0,241.0 137.7,213.9 102.7,217.3 106.1,182.3 79.0,160.0 106.1,137.7 102.7,102.7 137.7,106.1" fill="none" stroke="url(#g2)" stroke-width="5"/>
+  <circle cx="160" cy="160" r="52" fill="#0b1220"/>
+  <path d="M145 133 L190 160 L145 187 Z" fill="url(#g2)" stroke="url(#g2)" stroke-width="8" stroke-linejoin="round"/>
+  <text x="300" y="138" font-family="Segoe UI, Roboto, Arial, sans-serif" font-size="64" font-weight="800" fill="#ffffff">MSoqiy Apps</text>
+  <text x="302" y="190" font-family="Segoe UI, Roboto, Arial, sans-serif" font-size="32" font-weight="600" fill="#fbbf24">Aqlli o‘yin — bilimli avlod</text>
+  <text x="302" y="240" font-family="Segoe UI, Roboto, Arial, sans-serif" font-size="24" fill="#cbd5e1">9 ta o‘zbekcha ta'limiy o‘yin · sun'iy intellekt · internetsiz ishlaydi</text>
+</svg>
