@@ -10,7 +10,7 @@
   <polygon points="160.0,79.0 182.3,106.1 217.3,102.7 213.9,137.7 241.0,160.0 213.9,182.3 217.3,217.3 182.3,213.9 160.0,241.0 137.7,213.9 102.7,217.3 106.1,182.3 79.0,160.0 106.1,137.7 102.7,102.7 137.7,106.1" fill="none" stroke="url(#g2)" stroke-width="5"/>
   <circle cx="160" cy="160" r="52" fill="#0b1220"/>
   <path d="M145 133 L190 160 L145 187 Z" fill="url(#g2)" stroke="url(#g2)" stroke-width="8" stroke-linejoin="round"/>
-  <text x="300" y="138" font-family="Segoe UI, Roboto, Arial, sans-serif" font-size="64" font-weight="800" fill="#ffffff">MSoqiy Apps</text>
-  <text x="302" y="190" font-family="Segoe UI, Roboto, Arial, sans-serif" font-size="32" font-weight="600" fill="#fbbf24">Aqlli o‘yin — bilimli avlod</text>
-  <text x="302" y="240" font-family="Segoe UI, Roboto, Arial, sans-serif" font-size="24" fill="#cbd5e1">9 ta o‘zbekcha ta'limiy o‘yin · sun'iy intellekt · internetsiz ishlaydi</text>
+  <text x="300" y="138" font-family="Segoe UI, Roboto, Arial, sans-serif" font-size="64" font-weight="800" fill="#ffffff">Mamasaidov M.A.</text>
+  <text x="302" y="190" font-family="Segoe UI, Roboto, Arial, sans-serif" font-size="32" font-weight="600" fill="#fbbf24">MSoqiy · dasturlar va loyihalar</text>
+  <text x="302" y="240" font-family="Segoe UI, Roboto, Arial, sans-serif" font-size="24" fill="#cbd5e1">Ta'limiy o‘yinlar · sun'iy intellekt · mobil ilovalar</text>
 </svg>
